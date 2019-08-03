@@ -1,9 +1,9 @@
 SOURCES += \
     main.cpp
 
-INCLUDEPATH += F:\\opencv0301\\opencv-build\\install\\include
-INCLUDEPATH += F:\\opencv0301\\opencv-build\\install\\include\\opencv
-INCLUDEPATH += F:\\opencv0301\\opencv-build\\install\\include\\opencv2
+INCLUDEPATH += C:\\opencv-build\\opencv-3.4.7-qt\\install\\include
+INCLUDEPATH += C:\\opencv-build\\opencv-3.4.7-qt\\install\\include\\opencv
+INCLUDEPATH += C:\\opencv-build\\opencv-3.4.7-qt\\install\\include\\opencv2
 
-LIBS += -L F:\\opencv0301\\opencv-build\\install\\x64\\mingw\\bin\\opencv_ffmpeg300.dll
-LIBS += -L F:\\opencv0301\\opencv-build\\install\\x64\\mingw\\bin\\libopencv_*.dll
+LIBS += -L C:\opencv-build\opencv-3.4.7-qt\install\\x64\\mingw\\bin\\opencv_ffmpeg347_64.dll
+LIBS += -L C:\opencv-build\opencv-3.4.7-qt\install\\x64\\mingw\\bin\\libopencv_*.dll
